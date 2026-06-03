@@ -26,8 +26,8 @@ Nenhuma! O script usa apenas bibliotecas padrão do Python.
 
 ```bash
 # Clone o repositório
-git clone <seu-repositorio>
-cd <nome-do-projeto>
+git clone https://github.com/RedTeamBrasil/FlutterLibappSearch.git FlutterLibappSearch
+cd FlutterLibappSearch
 
 # Torne o script executável (opcional)
 chmod +x search_patterns.py
